@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiLafise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+691b355b97a18124cdfb304e7f071ca87cf18f9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40ad34565d013ef0184d1271598aa1097ce1f0b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiLafise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiLafise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
