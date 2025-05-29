@@ -42,7 +42,7 @@ L> ApiLafise.Tests/         # Proyecto de pruebas unitarias
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/Alexander-Acu/PruebaLafise.git
+git clone https://github.com/Alexander-Acu/TestBackendLafise.git
 ```
 ### 2. Abre el proyecto en Visual Studio
 
