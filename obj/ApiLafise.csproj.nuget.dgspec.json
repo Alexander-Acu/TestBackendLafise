@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexander Acuña\\source\\repos\\ApiLafise\\ApiLafise.csproj": {}
+    "C:\\Users\\Alexander Acuña\\Documents\\lafise\\ApiLafise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexander Acuña\\source\\repos\\ApiLafise\\ApiLafise.csproj": {
+    "C:\\Users\\Alexander Acuña\\Documents\\lafise\\ApiLafise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexander Acuña\\source\\repos\\ApiLafise\\ApiLafise.csproj",
+        "projectUniqueName": "C:\\Users\\Alexander Acuña\\Documents\\lafise\\ApiLafise.csproj",
         "projectName": "ApiLafise",
-        "projectPath": "C:\\Users\\Alexander Acuña\\source\\repos\\ApiLafise\\ApiLafise.csproj",
+        "projectPath": "C:\\Users\\Alexander Acuña\\Documents\\lafise\\ApiLafise.csproj",
         "packagesPath": "C:\\Users\\Alexander Acuña\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexander Acuña\\source\\repos\\ApiLafise\\obj\\",
+        "outputPath": "C:\\Users\\Alexander Acuña\\Documents\\lafise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -57,6 +57,10 @@
               "target": "Package",
               "version": "[2.3.0, )"
             },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.14.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -64,6 +68,16 @@
             "System.Data.SQLite.Core": {
               "target": "Package",
               "version": "[1.0.119, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
